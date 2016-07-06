@@ -1,0 +1,11 @@
+galleryview
+	takes array of img urls
+		displays img for each url and runs callback on url when img is clicked
+
+fullview
+	display img when told to do so
+
+appview
+	renders full size view
+	renders gallery view
+	takes an array of image URLs, passes them to galleryview
